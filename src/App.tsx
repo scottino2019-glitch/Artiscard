@@ -228,7 +228,7 @@ export default function App() {
               <Panel key="text" title="Testo & Curve">
                 <button 
                   onClick={handleAddText}
-                  className="w-full bg-studio-card text-white py-4 rounded font-white text-xs uppercase tracking-[0.2em] mb-6 hover:bg-studio-accent transition-all"
+                  className="w-full bg-studio-card text-black py-4 rounded font-black text-xs uppercase tracking-[0.2em] mb-6 hover:bg-studio-accent transition-all"
                 >
                   Nuovo Livello
                 </button>
