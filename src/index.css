@@ -1,13 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Space+Grotesk:wght@300;500;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Permanent+Marker&family=Satisfy&display=swap');
+@import url('<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Are+You+Serious&family=Honk:MORF@15&family=Lovers+Quarrel&family=Monoton&family=My+Soul&family=Nabla&family=Permanent+Marker&family=Reenie+Beanie&family=Satisfy&family=UnifrakturMaguntia&display=swap");
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
-  --font-display: "Space Grotesk", sans-serif;
-  --font-serif: "Playfair Display", serif;
-  --font-artistic: "Cormorant Garamond", serif;
+  --font-cursive: "My Soul", cursive;
+  --font-cursive: "Reenie Beanie", cursive;
+  --font-cursive: "UnifrakturMaguntia", cursive;
+  --font-artistic: "Lovers Quarrel", cursive;
   --font-marker: "Permanent Marker", cursive;
   --font-cursive: "Satisfy", cursive;
+  --font-artistic: "Honk", system-ui;
+   --font-artistic: "Nabla", system-ui;
+   --font-cursive: "Are You Serious", cursive;
+   --font-serif: "Monoton", sans-serif;
+  
+  
 
   --color-studio-bg: #0F0F0F;
   --color-studio-panel: #141414;
