@@ -1,10 +1,15 @@
 export const FONT_FAMILIES = [
-  { name: 'Modern Sans', value: 'Inter' },
-  { name: 'Space Tech', value: 'Space Grotesk' },
-  { name: 'Elegant Serif', value: 'Playfair Display' },
-  { name: 'Classic Art', value: 'Cormorant Garamond' },
+  { name: 'My Soul', value: 'My Soul' },
+  { name: 'Reenie Beanie', value: 'Reenie Beanie' },
+  { name: 'UnifrakturMaguntia"', value: 'UnifrakturMaguntia' },
+  { name: 'Lovers Quarrel', value: 'Lovers Quarrel' },
   { name: 'Marker Style', value: 'Permanent Marker' },
   { name: 'Cursive Script', value: 'Satisfy' },
+  { name: 'Honk', value: 'Honk' },
+    { name: 'Nabla', value: 'Nabla' },
+    { name: 'Monoton', value: 'Monoton' },
+    { name: 'Are You Serious', value: 'Are You Serious' },
+  
 ];
 
 export const POSTCARD_SIZES = {
