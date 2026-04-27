@@ -15,8 +15,8 @@ export const POSTCARD_SIZES = {
 
 export const STICKER_PACKS = [
   { id: 'shapes', name: 'Geo Shapes', items: ['circle', 'rect', 'triangle', 'star'] },
-  { id: 'speech', name: 'Bubbles', items: ['💬', '💭', '🗯️', '✨'] },
-  { id: 'icons', name: 'Post-Icons', items: ['💌', '📮', '✈️', '🌍', '📷', '🎨', '🎉', '❤️'] },
+  { id: 'speech', name: 'Bubbles', items: ['💬', '💭', '🗯️', '🗨' ] },
+  { id: 'icons', name: 'Post-Icons', items: ['💌', '😂', '✈️', '🥰', '📷', '💤', '🎉', '❤️', '✨', '🫶', '😘', '🌟', '🌜', '🌞', '👀', '🌺', '🎀', '📎'] },
 ];
 
 export const FILTERS = [
