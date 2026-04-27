@@ -1,0 +1,6 @@
+{
+  "name": "Artemis Postcard Studio",
+  "description": "A creative app for designing custom postcards with artistic fonts, curved text, stickers, and AI-generated backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image_generation"]
+}
